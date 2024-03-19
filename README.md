@@ -26,8 +26,16 @@ This is a simple todo application built with Django and Streamlit.
 3. Create and activate a virtual environment:
 
     ```bash
-    python -m venv myenv
-    source myenv/bin/activate
+    python -m venv venv
+    ```
+    Linux :
+    ```bash
+    source venv/bin/activate
+    ```
+    Windows :
+    ```bash
+    venv\Scripts\activate
+
     ```
 
 4. Install dependencies:
