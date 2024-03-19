@@ -13,19 +13,19 @@ This is a simple todo application built with Django and Streamlit.
 
 1. Clone the repository:
 
-    ```
-    git clone <repository_url>
+    ```bash
+    git clone https://github.com/mehdibenennia/todo_project.git
     ```
 
 2. Navigate to the project directory:
 
-    ```
+    ```bash
     cd todo_project
     ```
 
 3. Install dependencies:
 
-    ```
+    ```bash
     pip install -r requirements.txt
     ```
 
@@ -33,13 +33,13 @@ This is a simple todo application built with Django and Streamlit.
 
 1. Run the Django development server:
 
-    ```
+    ```bash
     python manage.py runserver
     ```
 
 2. Run the Streamlit app:
 
-    ```
+    ```bash
     streamlit run app.py
     ```
 
