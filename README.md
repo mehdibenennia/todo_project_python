@@ -58,7 +58,7 @@ This is a simple todo application built with Django and Streamlit.
 
 ## Contributors
 
-- [Your Name](https://github.com/your_username)
+- [El Mehdi Benennia](https://github.com/mehdibenennia)
 
 ## License
 
