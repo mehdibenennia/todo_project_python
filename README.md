@@ -23,7 +23,14 @@ This is a simple todo application built with Django and Streamlit.
     cd todo_project
     ```
 
-3. Install dependencies:
+3. Create and activate a virtual environment:
+
+    ```bash
+    python -m venv myenv
+    source myenv/bin/activate
+    ```
+
+4. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
